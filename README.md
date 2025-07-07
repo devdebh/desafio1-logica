@@ -74,4 +74,4 @@ Se quiser deixar um comentário, abrir uma issue ou usar como base para seu pró
 
 ---
 
-![Heroína deb](.deb.png)
+![Assinatura Déborah](./deb.png)
